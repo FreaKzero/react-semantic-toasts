@@ -41,10 +41,12 @@
         "eslint-plugin-jsx-a11y": "^6.1.1",
         "eslint-plugin-react": "^7.11.1"
     },
+    "peerDependencies": {
+      "semantic-ui-css": "^2.3.3",
+      "semantic-ui-react": "^0.82.2"
+    },
     "dependencies": {
         "prop-types": "^15.6.2",
-        "react": "^16.4.2",
-        "semantic-ui-css": "^2.3.3",
-        "semantic-ui-react": "^0.82.2"
+        "react": "^16.4.2"
     }
 }
